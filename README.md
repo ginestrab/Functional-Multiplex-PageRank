@@ -1,4 +1,4 @@
-# Functional-Multiplex-PageRank-codes
+# Functional-Multiplex-PageRank
 
 %++++++++ Functional Multiplex PageRank ++++++++++++++++++++++++++++
 
